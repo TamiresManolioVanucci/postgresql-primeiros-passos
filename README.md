@@ -1,0 +1,1 @@
+Instalação e conexão ao PostgreSQL e pgAdmin, criação e exclusão de bancos e tabelas, inserção e consulta de dados, filtros (`WHERE`, `LIKE`, `IS NULL`), operadores (`AND`, `OR`, `BETWEEN`), chaves primárias e estrangeiras, `JOINs`, e restrições (`RESTRICT`, `CASCADE`) para `DELETE` e `UPDATE`.
